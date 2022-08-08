@@ -1,0 +1,170 @@
+{
+  "music-cards": [
+    {
+      "id": 1,
+      "title": "Miyagi",
+      "img": "miyagi-album.jpg"
+    },
+    {
+      "id": 2,
+      "title": "So low",
+      "img": "so love.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Егор Крид",
+      "img": "yegor-krid.png"
+    },
+    {
+      "id": 4,
+      "title": "Macan",
+      "img": "macan.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Jah Khalib7",
+      "img": "jah khalib.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Макс Корж",
+      "img": "max-corj.jpg"
+    }
+  ],
+  "posts-card": [
+    {
+      "id": 1,
+      "title": "KHALIBания душ...",
+      "description": "Jah Khalib",
+      "img": "khalib.jpg"
+    },
+    {
+      "id": 2,
+      "title": "E.G.O",
+      "description": "Jah Khalib",
+      "img": "ego-jah.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Если Че Я Баха",
+      "description": "Jah Khalib",
+      "img": "jah- khalib.jpg"
+    }
+  ],
+  "catalog": [
+    {
+      "id": 1,
+      "title": "Снова ночь",
+      "description": "Mull3",
+      "img": "mull.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Джованна",
+      "description": "Enrasta",
+      "img": "enresta3.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Грюза",
+      "description": "LIRANOV",
+      "img": "liranov.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Антигерой",
+      "description": "ELMAN",
+      "img": "анти-герой.jpg"
+    },
+    {
+      "id": 5,
+      "title": "MOON FLAME",
+      "description": "Andro",
+      "img": "andro.jpg"
+    }
+  ],
+  "album": [
+    {
+      "id": 1,
+      "img": "khalib.jpg",
+      "description": "МИНИ-АЛЬБОМ",
+      "title": "KHALIBания души - ЕР",
+      "li": "Jah Khalib",
+      "li2": "2016",
+      "li3": "8 треков,",
+      "li4": "30 миню.14 сек.",
+      "title2": "Заноо",
+      "title3": "нЕБОМУТНОЕ чувство любовь",
+      "title4": "Осень в стили Jah'z Music",
+      "title5": "SLMKM",
+      "decription2": "Jah Khalib, Каспийский груз",
+      "number2": "279 043",
+      "number3": "334 797",
+      "number4": "334 015",
+      "number5": "25 929 648",
+      "name": "#",
+      "ul": "название",
+      "start": "начать",
+      "music": "прослушивания"
+    }
+  ],
+  "audios": [
+    {
+      "id": 1,
+      "title": "Заново",
+      "li": "Jah Khalib",
+      "number": "718 169",
+      "second": "3:20",
+      "url": "https://res.cloudinary.com/cbanlawi/video/upload/v1614140796/HarryStyles-WatermelonSugar_f5471p.mp3",
+      "speed": "⏸"
+    },
+    {
+      "id": 2,
+      "title": "нЕБОМУТНОЕ чувство любовь",
+      "li": "Jah Khalib, Каспийский груз",
+      "number": "279 117",
+      "second": "4:18",
+      "url": "https://s2.xn--41a.wiki/10/50148_2e99d3c62d61bf926b5c8225be60b962.mp3?filename=miyagi_-_rodnaya-poy-8d.mp3",
+      "speed": "⏸"
+    },
+    {
+      "id": 3,
+      "title": "Осень в стиле Jah'z Music",
+      "li": "Jah Khalib",
+      "number": "334 841",
+      "second": "3:46",
+      "speed": "⏸"
+    },
+    {
+      "id": 4,
+      "title": "SLMLKM",
+      "li": "Jah Khalib, Каспийский груз",
+      "number": "374 169",
+      "second": "4:44",
+      "speed": "⏸"
+    },
+    {
+      "id": 5,
+      "title": "Ты словно целая вселенная",
+      "li": "Jah Khalib",
+      "number": "25 941 078",
+      "second": "3:44",
+      "speed": "⏸"
+    },    {
+      "id": 6,
+      "title": "Do It",
+      "li": "Jah Khalib, Кравц",
+      "number": "1 597 222",
+      "second": "2:54",
+      "speed": "⏸"
+    },
+    {
+      "id": 7,
+      "title": "Подойди поближе(Дутка)",
+      "li": "Jah Khalib",
+      "number": "2 737 061",
+      "second": "3:29",
+      "speed": "⏸"
+    }
+  ]
+}
